@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import { io } from "socket.io-client";
 
 import LoginPage from "./Login/loginPage";
-import RegisterPage from "./Register/RegisterPage";
+import RegisterPage from "./Register/registerPage";
 import HomePage from "./Home/HomePage";
 
 function App() {
